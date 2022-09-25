@@ -1,7 +1,7 @@
 ---
 role: "Associate Professor, Electronics and Communication Sciences Unit, Indian
   Statistical Institute "
-avatar_filename: https://mlrgisi.github.io/dp2.png
+avatar_filename: null
 bio: ""
 interests:
   - Artificial Intelligence
