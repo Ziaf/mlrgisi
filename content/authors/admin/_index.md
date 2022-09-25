@@ -1,73 +1,25 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+role: "Associate Professor, Electronics and Communication Sciences Unit, Indian
+  Statistical Institute "
+avatar_filename: https://mlrgisi.github.io/dp2.png
+bio: ""
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Metaheuristics
+  - Differential Evolution
+  - Swarm Intelligence
+  - Machine Learning
+social: []
+organizations:
+  - name: Indian Statistical Institute, Kolkata
+    url: https://www.isical.ac.in/~swagatam.das/
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  courses: []
+superuser: true
 user_groups:
-  - Researchers
+  - Faculty Member
+highlight_name: false
+title: Swagatam Das
+email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Swagatam Das is currently an Associate Professor and the Head of the Electronics and Communication Sciences Unit, at the Indian Statistical Institute, Kolkata. He received the B.E. and M.E. degrees in telecommunication engineering and the Ph.D. degree from Jadavpur University, India, in 2003, 2005, and 2009, respectively. He has published more than 300 research articles in peer-reviewed journals and international conferences. Dr. Das has more than 25,000 Google Scholar citations and an H-index of 75 till date. He has been associated with international program and organizing committees of several reputed international conferences, including NeurIPS, AAAI, AISTATS, ACM Multimedia, BMVC, IEEE CEC, and GECCO. He was a recipient of the 2012 Young Engineer Award from the Indian National Academy of Engineering (INAE) and the 2015 Thomson Reuters Research Excellence India Citation Award as the Highest Cited Researcher from India in Engineering and Computer Science category, from 2010 to 2014. Dr. Swagatam Das is the Founding Co-Editor-In-Chief of Swarm and Evolutionary Computation, a journal from Elsevier. His research interests include machine learning, deep learning and evolutionary computing.
